@@ -13,8 +13,8 @@
 	},
 	"compileType": "miniprogram",
 	"libVersion": "2.6.1",
-	"appid": "wx1c2afc59170e490f",
-	"projectname": "doubanMovie",
+	"appid": "wx5b8c07d1fcd9f8ea",
+	"projectname": "miniprogram-test-1",
 	"debugOptions": {
 		"hidedInDevtools": []
 	},
